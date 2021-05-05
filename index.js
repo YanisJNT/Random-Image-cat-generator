@@ -1,3 +1,4 @@
+console.log("..")
 const boxDog = document.querySelector(".cat")
 const buttonGenerator = document.querySelector("a")
 
